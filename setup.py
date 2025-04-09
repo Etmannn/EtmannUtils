@@ -7,5 +7,5 @@ setup(
   author='Ethan Cleminson',
   author_email='ethan.cleminso@gmail.com',
   description="collection of small utility programs that I've made",
-  packages=find_packages()
+  packages=find_packages('EtmannUtils')
 )
